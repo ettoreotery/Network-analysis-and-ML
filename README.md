@@ -1,1 +1,1 @@
-Network analysis snd ML over graphs
+Network analysis snd Machine learning modeling on graphs data.
